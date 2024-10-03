@@ -1,4 +1,4 @@
-package Sept.ex_300924;
+package Sept.ex_240924;
 
 public class Lab_013imp {
     public static void main(String[] args) {

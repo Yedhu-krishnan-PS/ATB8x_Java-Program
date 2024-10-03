@@ -1,6 +1,4 @@
-package Sept.ex_300924;
-
-import java.sql.SQLOutput;
+package Sept.ex_240924;
 
 import static java.lang.System.out;
 
