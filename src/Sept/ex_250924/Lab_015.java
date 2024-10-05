@@ -11,6 +11,6 @@ public class Lab_015 {
          */
         System.out.println(y);
 
-        //NEVER FORGET TO ADD SYSTEM OUT IN THE END
+        //NEVER FORGET TO ADD "SYSTEM OUT Print" IN THE END
     }
 }

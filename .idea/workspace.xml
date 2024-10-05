@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new addition files">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_250924/Lab_014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_250924/Lab_015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files">
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATB8xJavaProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_210924/Lab_006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_210924/Lab_006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_300924/Lab_010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_300924/Lab_011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_300924/Lab_012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_300924/Lab_013imp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_013imp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_250924/Lab_015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_250924/Lab_015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TASK/Task001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TASK/Task001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +69,10 @@
     "Application.Sept.ex_200924.Lab_004.executor": "Run",
     "Application.Task001.executor": "Run",
     "Application.Task002.executor": "Run",
+    "Application.Task003.executor": "Run",
+    "Application.Task004.executor": "Run",
+    "Application.Task005.executor": "Run",
+    "Application.Task007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -85,48 +86,9 @@
       <recent name="Sept.ex_300924" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task002">
-    <configuration name="Lab_006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_210924.Lab_006" />
-      <module name="JavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sept.ex_210924.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_250924.Lab_014" />
-      <module name="JavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sept.ex_250924.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_250924.Lab_015" />
-      <module name="JavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sept.ex_250924.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TASK.Task001" />
+  <component name="RunManager" selected="Application.Task006">
+    <configuration name="Task003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task003" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TASK.Task002" />
+    <configuration name="Task004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task004" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -151,26 +113,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Task005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task005" />
       <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TASK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Task006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task006" />
       <module name="JavaProgram" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TASK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task007" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TASK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task002" />
-        <item itemvalue="Application.Task001" />
-        <item itemvalue="Application.Lab_015" />
-        <item itemvalue="Application.Lab_014" />
-        <item itemvalue="Application.Lab_006" />
+        <item itemvalue="Application.Task006" />
+        <item itemvalue="Application.Task007" />
+        <item itemvalue="Application.Task005" />
+        <item itemvalue="Application.Task004" />
+        <item itemvalue="Application.Task003" />
       </list>
     </recent_temporary>
   </component>
@@ -231,8 +219,27 @@
       <option name="project" value="LOCAL" />
       <updated>1727955347242</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add the new Task files">
+      <option name="closed" value="true" />
+      <created>1727973959792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727973959793</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add the files" />
@@ -240,7 +247,8 @@
     <MESSAGE value="Add the new files now" />
     <MESSAGE value="Add the new Hello name files now" />
     <MESSAGE value="Add the new addition files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the new addition files" />
+    <MESSAGE value="Add the new Task files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -267,7 +275,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TASK/Task001.java</url>
-          <line>25</line>
+          <line>29</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -278,6 +286,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TASK/Task007.java</url>
+          <line>3</line>
+          <properties class="TASK.Task007" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

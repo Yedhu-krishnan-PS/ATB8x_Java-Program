@@ -22,7 +22,11 @@ output will be like this (by using the printf()
         System.out.println();
         System.out.printf("%d x %d = %d" ,num,4,num*4);
         System.out.println();
-    //    PrintStream printf1 = System.out.printf("%d x %d = %d" num, 5, num * 5);
+
+
+
+    //   Ignore the following lines
+        //    PrintStream printf1 = System.out.printf("%d x %d = %d" num, 5, num * 5);
      //   PrintStream printf = System.out.printf("%d x %d = %d" num, 10, num * 10);
 
 
