@@ -12,7 +12,7 @@ Print - a+b, a-b, ab, a/b, a%b all the outputs.
         double a = 34;
         double b = 10;
 
-                System.out.println(a+b);
+        System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
