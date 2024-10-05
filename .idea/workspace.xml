@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files">
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_240924/Lab_010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_250924/Lab_015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_250924/Lab_015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TASK/Task001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TASK/Task001.java" afterDir="false" />
-    </list>
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 16/09" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +62,7 @@
     "Application.Task003.executor": "Run",
     "Application.Task004.executor": "Run",
     "Application.Task005.executor": "Run",
+    "Application.Task006.executor": "Run",
     "Application.Task007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -227,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727973959793</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add the new Task files for 16/09">
+      <option name="closed" value="true" />
+      <created>1728141139650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728141139650</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +247,8 @@
     <MESSAGE value="Add the new Hello name files now" />
     <MESSAGE value="Add the new addition files" />
     <MESSAGE value="Add the new Task files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files" />
+    <MESSAGE value="Add the new Task files for 16/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 16/09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
