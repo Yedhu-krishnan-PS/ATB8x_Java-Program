@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 16/09" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 13/09">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_260924_Typecasting/Lab_016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_260924_Typecasting/Lab_017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +62,8 @@
     "Application.Lab_013.executor": "Run",
     "Application.Lab_014.executor": "Run",
     "Application.Lab_015.executor": "Run",
+    "Application.Lab_016.executor": "Run",
+    "Application.Lab_017.executor": "Run",
     "Application.Sept.ex_200924.Lab_004.executor": "Run",
     "Application.Task001.executor": "Run",
     "Application.Task002.executor": "Run",
@@ -64,6 +72,8 @@
     "Application.Task005.executor": "Run",
     "Application.Task006.executor": "Run",
     "Application.Task007.executor": "Run",
+    "Application.Task008.executor": "Run",
+    "Application.Task009.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -77,13 +87,13 @@
       <recent name="Sept.ex_300924" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task006">
-    <configuration name="Task003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TASK.Task003" />
+  <component name="RunManager" selected="Application.Task009">
+    <configuration name="Lab_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_260924_Typecasting.Lab_016" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TASK.*" />
+          <option name="PATTERN" value="Sept.ex_260924_Typecasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,25 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TASK.Task004" />
+    <configuration name="Lab_017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_260924_Typecasting.Lab_017" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TASK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TASK.Task005" />
-      <module name="JavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TASK.*" />
+          <option name="PATTERN" value="Sept.ex_260924_Typecasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TASK.Task007" />
+    <configuration name="Task008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task008" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TASK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK.Task009" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task009" />
+        <item itemvalue="Application.Task008" />
+        <item itemvalue="Application.Lab_017" />
+        <item itemvalue="Application.Lab_016" />
         <item itemvalue="Application.Task006" />
-        <item itemvalue="Application.Task007" />
-        <item itemvalue="Application.Task005" />
-        <item itemvalue="Application.Task004" />
-        <item itemvalue="Application.Task003" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +236,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728141139650</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add the new Task files for 13/09">
+      <option name="closed" value="true" />
+      <created>1728147040881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728147040881</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add the new Task files for 13/09">
+      <option name="closed" value="true" />
+      <created>1728147105182</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728147105182</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +274,8 @@
     <MESSAGE value="Add the new addition files" />
     <MESSAGE value="Add the new Task files" />
     <MESSAGE value="Add the new Task files for 16/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 16/09" />
+    <MESSAGE value="Add the new Task files for 13/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 13/09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -295,6 +322,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_260924_Typecasting/Lab_017.java</url>
+          <line>3</line>
+          <properties class="Sept.ex_260924_Typecasting.Lab_017" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TASK/Task009.java</url>
+          <line>11</line>
+          <properties class="TASK.Task009" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
