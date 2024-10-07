@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 13/09">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_260924_Typecasting/Lab_016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_260924_Typecasting/Lab_017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task009.java" afterDir="false" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 18/09">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TASK/Task013.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +69,11 @@
     "Application.Lab_015.executor": "Run",
     "Application.Lab_016.executor": "Run",
     "Application.Lab_017.executor": "Run",
+    "Application.Lab_018.executor": "Run",
+    "Application.Lab_019.executor": "Run",
+    "Application.Lab_020.executor": "Run",
+    "Application.Lab_022.executor": "Run",
+    "Application.Lab_21.executor": "Run",
     "Application.Sept.ex_200924.Lab_004.executor": "Run",
     "Application.Task001.executor": "Run",
     "Application.Task002.executor": "Run",
@@ -74,6 +84,10 @@
     "Application.Task007.executor": "Run",
     "Application.Task008.executor": "Run",
     "Application.Task009.executor": "Run",
+    "Application.Task010.executor": "Run",
+    "Application.Task011.executor": "Run",
+    "Application.Task012.executor": "Run",
+    "Application.Task013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -87,7 +101,7 @@
       <recent name="Sept.ex_300924" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task009">
+  <component name="RunManager">
     <configuration name="Lab_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sept.ex_260924_Typecasting.Lab_016" />
       <module name="JavaProgram" />
@@ -252,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728147105182</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add the new Task files for 18/09">
+      <option name="closed" value="true" />
+      <created>1728212558183</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728212558183</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +297,8 @@
     <MESSAGE value="Add the new Task files" />
     <MESSAGE value="Add the new Task files for 16/09" />
     <MESSAGE value="Add the new Task files for 13/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 13/09" />
+    <MESSAGE value="Add the new Task files for 18/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 18/09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
