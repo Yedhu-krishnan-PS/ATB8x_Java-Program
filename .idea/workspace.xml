@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 18/09">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_270924_conditionLoops/Lab_022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK/Task013.java" afterDir="false" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 20/09">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab_030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab_032.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab012.executor": "Run",
+    "Application.Lab031.executor": "Run",
     "Application.Lab_003.executor": "Run",
     "Application.Lab_004.executor": "Run",
     "Application.Lab_006.executor": "Run",
@@ -73,6 +68,8 @@
     "Application.Lab_019.executor": "Run",
     "Application.Lab_020.executor": "Run",
     "Application.Lab_022.executor": "Run",
+    "Application.Lab_030.executor": "Run",
+    "Application.Lab_032.executor": "Run",
     "Application.Lab_21.executor": "Run",
     "Application.Sept.ex_200924.Lab_004.executor": "Run",
     "Application.Task001.executor": "Run",
@@ -88,6 +85,7 @@
     "Application.Task011.executor": "Run",
     "Application.Task012.executor": "Run",
     "Application.Task013.executor": "Run",
+    "Application.Task014.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -274,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728212558183</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add the new Task files for 20/09">
+      <option name="closed" value="true" />
+      <created>1728317652519</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728317652519</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +304,8 @@
     <MESSAGE value="Add the new Task files for 16/09" />
     <MESSAGE value="Add the new Task files for 13/09" />
     <MESSAGE value="Add the new Task files for 18/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 18/09" />
+    <MESSAGE value="Add the new Task files for 20/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 20/09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
