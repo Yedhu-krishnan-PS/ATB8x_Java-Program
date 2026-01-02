@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the new Task files for 20/09">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab_030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab_032.java" afterDir="false" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the FOR LOOPS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab_032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_280924_Loops/Lab_032.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,57 +47,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab012.executor": "Run",
-    "Application.Lab031.executor": "Run",
-    "Application.Lab_003.executor": "Run",
-    "Application.Lab_004.executor": "Run",
-    "Application.Lab_006.executor": "Run",
-    "Application.Lab_009.executor": "Run",
-    "Application.Lab_010.executor": "Run",
-    "Application.Lab_011.executor": "Run",
-    "Application.Lab_013.executor": "Run",
-    "Application.Lab_014.executor": "Run",
-    "Application.Lab_015.executor": "Run",
-    "Application.Lab_016.executor": "Run",
-    "Application.Lab_017.executor": "Run",
-    "Application.Lab_018.executor": "Run",
-    "Application.Lab_019.executor": "Run",
-    "Application.Lab_020.executor": "Run",
-    "Application.Lab_022.executor": "Run",
-    "Application.Lab_030.executor": "Run",
-    "Application.Lab_032.executor": "Run",
-    "Application.Lab_21.executor": "Run",
-    "Application.Sept.ex_200924.Lab_004.executor": "Run",
-    "Application.Task001.executor": "Run",
-    "Application.Task002.executor": "Run",
-    "Application.Task003.executor": "Run",
-    "Application.Task004.executor": "Run",
-    "Application.Task005.executor": "Run",
-    "Application.Task006.executor": "Run",
-    "Application.Task007.executor": "Run",
-    "Application.Task008.executor": "Run",
-    "Application.Task009.executor": "Run",
-    "Application.Task010.executor": "Run",
-    "Application.Task011.executor": "Run",
-    "Application.Task012.executor": "Run",
-    "Application.Task013.executor": "Run",
-    "Application.Task014.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/yedhu/IdeaProjects/ATB8xJavaProgram/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_017.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_020.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_022.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_030.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_032.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept.ex_200924.Lab_004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task014.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/yedhu/IdeaProjects/ATB8xJavaProgram/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Sept.ex_300924" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab_016">
     <configuration name="Lab_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sept.ex_260924_Typecasting.Lab_016" />
       <module name="JavaProgram" />
@@ -167,10 +165,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_016" />
         <item itemvalue="Application.Task009" />
         <item itemvalue="Application.Task008" />
         <item itemvalue="Application.Lab_017" />
-        <item itemvalue="Application.Lab_016" />
         <item itemvalue="Application.Task006" />
       </list>
     </recent_temporary>
@@ -280,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728317652519</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add the FOR LOOPS">
+      <option name="closed" value="true" />
+      <created>1739466581377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739466581377</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +311,8 @@
     <MESSAGE value="Add the new Task files for 13/09" />
     <MESSAGE value="Add the new Task files for 18/09" />
     <MESSAGE value="Add the new Task files for 20/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the new Task files for 20/09" />
+    <MESSAGE value="Add the FOR LOOPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the FOR LOOPS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
