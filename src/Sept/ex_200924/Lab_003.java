@@ -6,6 +6,7 @@ public class Lab_003 {
         System.out.println(5 * 4);
         System.out.println(5 + 4);
         System.out.println(5 - 4);
+        System.out.println(20 / 4);
 
     }
 }
