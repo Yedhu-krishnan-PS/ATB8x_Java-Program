@@ -7,5 +7,6 @@ public class Lab_004 {
           System.out.println("Hello World!");
           System.out.println(5 + 4);
           System.out.println(5 - 4);
+         System.out.println(5 * 9);
      }
 }
