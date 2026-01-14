@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the FOR LOOPS" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the FOR LOOPS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_200924/Lab_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_200924/Lab_004.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -379,7 +382,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768238105812</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add the FOR LOOPS">
+      <option name="closed" value="true" />
+      <created>1768323539523</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1768323539523</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add the FOR LOOPS">
+      <option name="closed" value="true" />
+      <created>1768323933983</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1768323933983</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
