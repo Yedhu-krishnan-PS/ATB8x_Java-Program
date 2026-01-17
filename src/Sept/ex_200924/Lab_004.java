@@ -10,6 +10,7 @@ public class Lab_004 {
          System.out.println(199 % 99);
          System.out.println(22*25);
          System.out.println(22/4);
+         System.out.println(88-9);
          System.out.println(33%72);
           System.out.println(5 - 4);
          System.out.println(5 * 9);

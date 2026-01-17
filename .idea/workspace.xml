@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the FOR LOOPS" />
+    <list default="true" id="03291fe2-993a-4e60-9561-a0395d01f075" name="Changes" comment="Add the FOR LOOPS">
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_200924/Lab_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_200924/Lab_004.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -411,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768498071761</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add the FOR LOOPS">
+      <option name="closed" value="true" />
+      <created>1768672018933</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1768672018935</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
